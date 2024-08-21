@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CycleEnemies : MonoBehaviour
 {
-    public float rotationSpeed = 60f; // Speed of rotation in degrees per second
+    public float rotationSpeed = 60f; // Speed of rotation in degrees per seconds
 
     void Update()
     {
